@@ -1,0 +1,29 @@
+
+.a{
+    background-color:aqua;
+    color:blue;
+    text-align:center;
+    border:5px Black outset;
+    padding:5px;
+}
+.image{
+    text-align:center;
+    background-color:black;
+    width:auto;
+}
+.body{
+    text-align:center;
+    background-color:aqua;
+    color:blue;
+    padding:auto;
+    border:50px solid black;
+}
+.footer{
+    text-align:center;
+    padding:1rem 0;
+    background-color:cadetblue;
+    color:azure;
+
+}
+ 
+    
